@@ -46,8 +46,6 @@ This is a light weight source, as a result it gives faster and better performanc
   - Interactive UI.
   - Smooth and fast.
   - Less Bugs.
-  - Global Leaderboard support.
-> More features are listed at [docs.hellbot.tech](https://docs.hellbot.tech/)
 
 ### 📣 Support
 - Found a bug? Or need help with something?
