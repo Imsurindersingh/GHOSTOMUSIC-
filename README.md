@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>𓅃 ζ͜͡g𝖍𝖔𝖘𝖙 ⃝𔓎MUSIC BOT - ᎻᎪᎡᎡყ 👻</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://graph.org/file/4d1467439269f27634331-1ac15481f1992f853d.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>𓆩𑁍𓆪 ζ͜͡Ꮐ𝖍𝖔𝖘𝖙⃝ 𔓎 𓆩𑁍𓆪</b>
 </h6>
 
 <h3 align="center">
@@ -34,9 +34,9 @@
 </h3>
 
 ------
-## 🎶 HellBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
+## 🎶 GHOST Bot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
 
-🎶 HellBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
+🎶 ζ͜͡g𝖍𝖔𝖘𝖙 𔓎Bot Music is a long awaited project from The-ᏀᎻᎧꕶᎢᎷᏌꕶᏆC Bot. This bot can stream songs on your telegram group voice chats.
 
 This is a light weight source, as a result it gives faster and better performance.
 
@@ -52,7 +52,7 @@ This is a light weight source, as a result it gives faster and better performanc
 ### 📣 Support
 - Found a bug? Or need help with something?
 
-> Fell free to reach us at [@HellBot_Chats](https://t.me/HellBot_Chats) to report a bug or get assistance to your problem.
+> Fell free to reach us at [@GHOSTIO_OMUSIC](https://t.me/GHOSTO_OSUPPORT) to report a bug or get assistance to your problem.
 
 > We will appreciate feature requests from you all.
 
