@@ -11,7 +11,7 @@ from Music.version import __version__
 
 
 async def start_bot():
-    hmusic_version = __version__["Hell Music"]
+    hmusic_version = __version__["GHOST Music"]
     py_version = __version__["Python"]
     pyro_version = __version__["Pyrogram"]
     pycalls_version = __version__["PyTgCalls"]
@@ -27,7 +27,7 @@ async def start_bot():
 
     try:
         if Config.BOT_PIC:
-            await hellbot.app.send_photo(
+            await Ghost.app.send_photo(
                 int(Config.LOGGER_ID),
                 Config.BOT_PIC,
                 TEXTS.BOOTED.format(
@@ -36,7 +36,7 @@ async def start_bot():
                     py_version,
                     pyro_version,
                     pycalls_version,
-                    hellbot.app.mention(style="md"),
+                    ghost.app.mention(style="md"),
                 ),
             )
         else:
@@ -62,7 +62,7 @@ async def start_bot():
 
     await idle()
 
-    await hellbot.app.send_message(
+    await ghostbot.app.send_message(
         Config.LOGGER_ID,
         f"\x23\x53\x54\x4f\x50\n\n**\x48\x65\x6c\x6c\x2d\x4d\x75\x73\x69\x63\x20\x5b{hmusic_version}\x5d\x20\x69\x73\x20\x6e\x6f\x77\x20\x6f\x66\x66\x6c\x69\x6e\x65\x21**",
     )
@@ -72,4 +72,4 @@ async def start_bot():
 
 
 if __name__ == "__main__":
-    hellbot.run(start_bot())
+    ghost.run(start_bot())
